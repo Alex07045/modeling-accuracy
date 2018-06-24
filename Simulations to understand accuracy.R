@@ -58,7 +58,7 @@ runSimulation(targetMean = 41, targetSD = 23.55, targetCor = 0.1)
 runSimulation(targetMean = 41, targetSD = 23.55, targetCor = 0.3)
 runSimulation(targetMean = 41, targetSD = 23.55, targetCor = 0.5)
 runSimulation(targetMean = 41, targetSD = 23.55, targetCor = 0.7)
-runSimulation(targetMean = 41, targetSD = 23.55, targetCor = 0.998)
+runSimulation(targetMean = 41, targetSD = 23.55, targetCor = 0.9)
 
 # Runs simluations at different levels of accuracy for personality trait (measured on scale of 1 to 7, with mean of 4, SD of 1)
 runSimulation(targetMean = 4, targetSD = 1, targetCor = 0.1)
