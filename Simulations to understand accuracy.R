@@ -2,10 +2,6 @@
 require(psych)
 require(ggplot2)
 
-targetMean <- 41
-targetSD <- 23.55
-targetCor <- 0.4
-
 # Makes function for running the tests
 runSimulation <- function(targetMean, targetSD, targetCor) {
   # Generates initial scores 
